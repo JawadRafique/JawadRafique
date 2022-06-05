@@ -1,6 +1,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=JawadRafique)
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25p">
 
 FullStack Web3 Developer based in Dubai with industry experience in building Web Applications, 3D Web Application, Decentralized Applications and Decentralized Autonomous Organization. Specialize in ReactJs, ThreeJs, Etherjs and Web3js with working experience of Redux, MaterialUI and Web3-core.
 
