@@ -1,5 +1,3 @@
-![](https://visitor-badge.glitch.me/badge?page_id=JawadRafique)
-
 ### Hi there,
 
 I am FullStack Web3 Developer based in Dubai with industry experience in building Web Applications, 3D Web Application, Decentralized Applications and Decentralized Autonomous Organization. Specialize in ReactJs, ThreeJs, Etherjs and Web3js with working experience of Redux, MaterialUI and Web3-core.
@@ -7,7 +5,7 @@ I am FullStack Web3 Developer based in Dubai with industry experience in buildin
 ### Connect Me
 
 <a href="https://www.linkedin.com/in/ijawadrafique/">
-  <img align="left" alt="Jawad's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  LinkedIn
 </a>
 
 <a href="https://jawadrafique.vercel.app/">
